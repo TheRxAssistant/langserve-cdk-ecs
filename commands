@@ -1,0 +1,1 @@
+cdk deploy --context stage=dev --context subdomain=chat --context vpc_stack=hbSharedVpcStack --context domain=healthbackend.com

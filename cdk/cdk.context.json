@@ -2,5 +2,9 @@
   "hosted-zone:account=730746788960:domainName=dezy.com:region=ap-south-1": {
     "Id": "/hostedzone/Z00357971DAFLY024UXWV",
     "Name": "dezy.com."
+  },
+  "hosted-zone:account=590184028089:domainName=healthbackend.com:region=us-west-2": {
+    "Id": "/hostedzone/Z09939013J6X6Y8W60CR",
+    "Name": "healthbackend.com."
   }
 }
